@@ -72,7 +72,7 @@ Redistribution not allowed
 
 StockZip is available here:
 👉 [Gumroad product page ](https://origenestudios.gumroad.com/l/fiksb)]
-![StockZip Preview](preview.png)
+![StockZip Preview](preview.jpg)
 
 🧠 Philosophy
 
